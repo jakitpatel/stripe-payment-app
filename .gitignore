@@ -13,7 +13,7 @@
 
 # Stripe-PHP-SDK
 /vendor
-.secrets.php
+secrets.php
 
 # misc
 .DS_Store

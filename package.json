@@ -1,6 +1,6 @@
 {
   "name": "fusion-donate-app",
-  "homepage": "https://dev.predictiveresponse.net/fusionEnergy",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
